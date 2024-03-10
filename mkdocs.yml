@@ -1,1 +1,3 @@
 site_name: create by mkdocs
+theme:
+  name: material
